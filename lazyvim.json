@@ -1,0 +1,12 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.codeium",
+    "lazyvim.plugins.extras.lang.go",
+    "lazyvim.plugins.extras.lang.tailwind",
+    "lazyvim.plugins.extras.ui.alpha"
+  ],
+  "news": {
+    "NEWS.md": "2123"
+  },
+  "version": 2
+}
